@@ -288,9 +288,3 @@ Funcionalidades futuras planejadas:
 - Documentação Vite
 - Calculadoras jurídicas brasileiras
 - Materiais técnicos de execução penal
-
----
-
-# 📞 Contato
-
-Projeto acadêmico desenvolvido para fins educacionais e sociais.
