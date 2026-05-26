@@ -5,7 +5,19 @@ Aplicativo desenvolvido para automatizar o cálculo de benefícios da execução
 O projeto possui caráter social e jurídico, auxiliando familiares de apenados, cidadãos leigos e escritórios de advocacia na compreensão das regras da execução penal previstas na legislação brasileira.
 
 ---
+# Equipe
 
+## Desenvolvimento
+- Sarah Agostinho Sperduti - 25.00276-6
+- Enzo Marangoni Freitas - 25.00383-1
+
+## Orientação
+- Prof. Dr. Aparecido Freitas
+
+## Parceiro Jurídico
+- Cepedes Lourenço Advogados
+
+  
 # Protótipo
 
 Figma:  
@@ -264,18 +276,6 @@ Funcionalidades futuras planejadas:
 - Deploy em nuvem
 
 ---
-
-# Equipe
-
-## Desenvolvimento
-- Sarah Agostinho Sperduti - 25.00276-6
-- Enzo Marangoni Freitas - 25.00383-1
-
-## Orientação
-- Prof. Dr. Aparecido Freitas
-
-## Parceiro Jurídico
-- Cepedes Lourenço Advogados
 
 ---
 
